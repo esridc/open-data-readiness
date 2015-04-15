@@ -1,16 +1,22 @@
-**Implementation**
-* Technical ecosystem, skills 
-   * ArcGIS Online subscription
-   * supported server 
-   * data imports using koop - have a consistent experience accessing data from multiple APIs
-   * ArcGIS Server has a common API across all services - koop provides option to bring other data into that ecosystem
-   * design 
-* Data management, procedures, availability (checklist?) 
-   * federation across departments 
-        * groups can manage their own data and have their own site
-        * federating data from these groups into a common site
-        * workflow of staging groups and sites for quality assurance
-   * user roles so someone oversees data quality 
-   * high impact datasets - parcels, crime, census, building footprints, addresses 
-   * high quality datasets - licensing, metadata 
-   * multiple sites for different departments (transportation site, planning site, education site) 
+**Beforehand**
+* Leadership
+   * support of senior people   
+   * don't necessarily need an Open Data Officer 
+   * need to have somebody to lead the project within the GIS or IT department 
+   * start with grassroots, leverage existing data and services
+   * gain sustainable institutional support, beyond a single administration - policies, licensing
+* Policies and Legal 
+   * are policies already in place - FOI, data anonymization, workflows
+   * need to meet a government mandate, or just doing it?
+   * licensing 
+* Financial 
+   * open data is free - part of normal operations, doesn't require budgeting for the platform 
+   * can dedicate funds to community support and outreach
+* Institutional structures and capabilities 
+   * led by the GIS department - GIS dept has decades of experience with data management, service infrastructures and analysis
+   * coordination amongst GIS department and other data departments 
+   * opportunity for growth beyond the GIS department
+* Demand for open data 
+   * current levels of citizen engagement
+   * data-driven economic development 
+   * internal use of public data - increase government efficiency
