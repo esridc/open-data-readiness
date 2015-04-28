@@ -1,5 +1,5 @@
 | Milestone     | Description                                                                        | Date                         |
 |---------------|------------------------------------------------------------------------------------|------------------------------|
-| First draft   | - intro section - flesh out success factors - technical steps and arcgis specifics | May 11                       |
-| Second draft  | - compile feedback - add case study information                                    | May 25                       |
-| Case studies  | - real examples of agencies that have gone through these steps - ongoing           | ongoing one every two weeks? |
+| First draft   | <ul><li>intro section</li><li>flesh out success factors</li><li>technical steps and arcgis specifics</li></ul>| May 11                       |
+| Second draft  |<ul><li>compile feedback</li><li>add case study information</li></ul>               | May 25                       |
+| Case studies  | <ul><li>real examples of agencies that have gone through these steps</li><li>ongoing</li></ul>   | ongoing, one every two weeks? |
