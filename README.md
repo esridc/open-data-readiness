@@ -9,3 +9,6 @@ The pages within this repo house content for different parts of the diagnostic:
   * [Implementation](https://github.com/esridc/open-data-readiness/blob/master/success-factors/implementation.md)
   * [Beyond the portal](https://github.com/esridc/open-data-readiness/blob/master/success-factors/beyond.md)
 * [Case Studies](https://github.com/esridc/open-data-readiness/blob/master/case-studies.md)
+
+
+Or, read the [entire thing in one document](https://github.com/esridc/open-data-readiness/blob/master/alltogether.md).
