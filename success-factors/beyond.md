@@ -12,7 +12,7 @@ Administrators can track metrics to measure the ‘health’ of usage, monitor t
 
 Metrics are built in to ArcGIS Open Data - administrators can track the number of site sessions, dataset views, dataset downloads, and more. 
 
-**Identification**
+**Optimization**
 
 Analytics also shed insight to where users are spending their time, which datasets they are accessing and exploring, which formats they are downloading, and what datasets they search for. Knowing what the common search terms are allows administrators to devote efforts to creating datasets that fulfill users needs. Admins can also use this information to better categorize their datasets on the site homepage so users can quickly access what they are looking for. 
 
@@ -31,7 +31,7 @@ These events are a good opportunity to get feedback from users about their exper
 
 Lots of cities have thriving civic technology scenes. Attending and speaking at these kind of meet ups will raise awareness of the open data available and will provide use cases for particular groups. 
 
-Getting in touch with a local Code for America brigade, if present, will put the data at the forefront of civic hacking. These groups have the technical skills and the field knowledge to turn data into services and information that the greater community can use. 
+Getting in touch with a local [Code for America brigade](https://www.codeforamerica.org/brigade/), if present, will put the data at the forefront of civic hacking. These groups have the technical skills and the field knowledge to turn data into services and information that the greater community can use. 
 
 **Local Organizations and Schools**
 

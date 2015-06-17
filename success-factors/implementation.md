@@ -14,13 +14,13 @@ If a city has an ArcGIS Online subscription already, they are ready to start pub
 
 **Multiple Sources**
 
-An ArcGIS Open Data site can contain data from multiple sources and APIs and present it in a consistent interface. Administrators can use [Koop](https://github.com/esri/koop) to pull in data from multiple sources, such as CKAN and Socrata. Koop will transform your data into a feature service, which can then be included in an ArcGIS Open Data site and is available in multiple open formats. 
+An ArcGIS Open Data site can contain data from multiple sources and APIs and present it in a consistent interface. Administrators can use [Koop](https://github.com/esri/koop) to pull in data from multiple sources, such as a 311 system, EMS streams or other data catalogs like CKAN and Socrata. Koop will transform your data into a feature service, which can then be included in an ArcGIS Open Data site and is available in multiple open formats. 
 
 If a government would like to pull in data from outside the platform, they must deploy their own instance of Koop. 
 
 **Multiple Services**
 
-Many different types of data can be shared in ArcGIS Open Data: map services, feature services, image services, and more. ArcGIS for Server has a common API across all these services, and Koop provides an option to bring other data into the ecosystem. Users can access all different kinds of data through the same interface and can download them all in the same open formats, regardless of the data type upon upload or registering. 
+Many different types of data can be shared in ArcGIS Open Data: map services, feature services, image services, as well as non-spatial data like Tables, Documents, and Applications. ArcGIS for Server has a common API across all these services, and Koop provides an option to bring other data into the ecosystem. Users can access all different kinds of data through the same interface and can download them all in the same open formats, regardless of the data type upon upload or registering. 
 
 **Design**
 
